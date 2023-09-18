@@ -1,0 +1,18 @@
+body {
+    background: #fffa65;
+  }
+  
+  .banner {
+    background: #fff200;
+    background: -webkit-linear-gradient(to right, #00a8ff, #f1c40f, #FFC312);
+    background: linear-gradient(to right, #00a8ff, #f1c40f, #fff200);
+  }
+   
+  a {
+text-align: center;
+text-decoration: none;  
+text-shadow: rgba(5, 198, 247, 0.877) 3px 3px 3px;
+font-size: x-large;
+font-family: 'Times New Roman', Times, serif;
+
+  }
