@@ -10,7 +10,7 @@ galleryItems.forEach(item => {
     item.classList.toggle('active');
   });
 });
-
+ 
 
 // Footer
 
