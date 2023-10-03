@@ -2,7 +2,7 @@
 
 // Get all gallery items
 const galleryItems = document.querySelectorAll('.col-xl-3'); 
- 
+  
 // Add click event to each item
 galleryItems.forEach(item => {
   item.addEventListener('click', e => {
