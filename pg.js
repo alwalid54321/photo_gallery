@@ -1,5 +1,5 @@
 // Photo gallery 
-
+ 
 // Get all gallery items
 const galleryItems = document.querySelectorAll('.col-xl-3'); 
   
